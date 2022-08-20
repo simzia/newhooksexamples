@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.centerAlign {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.windowHeight {
+  height: 100vh
+}
+.boxStyle {
+  border: 1px solid;
+  padding: 20px
+}
+.alignTextCenter {
+  text-align: center;
+}
+.mb15 {
+  margin-bottom: 15px;
+}
+.dflex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
